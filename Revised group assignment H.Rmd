@@ -1,0 +1,15 @@
+---
+title: "Silvia Clark Revised Learning Group Project H"
+output: html_notebook
+---
+This is my revised portion for Learning Group Project H.
+   
+###Introduction 
+Purpose of this investigation is to explore whether indivdiuals from different economic backgrounds and ethnicities score differently on reading tests. I am particularly interested in whether or not there is an interaction between the two explanatory variables.  
+Research Question: Is there an interaction between socioeconomic status and ethnicity on reading scores?
+```{This is my revised portion of learning group project H}  
+
+
+ 
+```
+
